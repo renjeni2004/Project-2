@@ -1,0 +1,293 @@
+customer_id,customer_name,region,last_order,frequency,monetary,recency_days,r_score,f_score,m_score,rfm_score,segment
+CUST-1269,Liam Sharma,East,2025-12-31,262,65795.85,1,5,5,5,555,Champions
+CUST-1054,Emma Wang,East,2025-12-31,162,48958.85,1,5,5,5,555,Champions
+CUST-1099,Arjun Silva,East,2025-12-30,123,41390.61,2,5,5,5,555,Champions
+CUST-1065,Olivia Garcia,East,2025-12-30,104,29109.7,2,5,5,5,555,Champions
+CUST-1008,Liam Patel,South,2025-12-21,85,26093.4,11,4,5,5,455,Champions
+CUST-1073,Aarav Reddy,South,2025-12-26,80,25531.96,6,4,5,5,455,Champions
+CUST-1176,Sneha Smith,East,2025-12-28,93,23739.02,4,5,5,5,555,Champions
+CUST-1169,Vikram Silva,East,2025-12-29,78,22552.15,3,5,5,5,555,Champions
+CUST-1263,Chen Iyer,East,2025-12-28,84,21396.38,4,5,5,5,555,Champions
+CUST-1193,Priya Muller,South,2025-12-31,68,21032.52,1,5,5,5,555,Champions
+CUST-1177,Yuki Silva,East,2025-12-31,72,19558.68,1,5,5,5,555,Champions
+CUST-1244,Mia Khan,North,2025-12-28,59,19431.84,4,5,5,5,555,Champions
+CUST-1261,Anita Muller,South,2025-12-31,77,18943.5,1,5,5,5,555,Champions
+CUST-1050,Carlos Iyer,East,2025-12-31,52,18427.82,1,5,5,5,555,Champions
+CUST-1105,Sneha Wang,Central,2025-12-11,52,18149.11,21,3,5,5,355,Loyal
+CUST-1015,Emma Reddy,South,2025-12-31,78,17814.06,1,5,5,5,555,Champions
+CUST-1196,Meera Garcia,East,2025-12-20,66,17609.47,12,4,5,5,455,Champions
+CUST-1205,Anita Reddy,West,2025-12-22,73,17246.07,10,4,5,5,455,Champions
+CUST-1053,Mia Khan,East,2025-12-30,62,16677.54,2,5,5,5,555,Champions
+CUST-1194,Fatima Iyer,West,2025-12-17,55,15223.79,15,4,5,5,455,Champions
+CUST-1075,Fatima Nair,North,2025-12-31,66,14942.74,1,5,5,5,555,Champions
+CUST-1183,Emma Nair,South,2025-12-07,46,14793.81,25,3,5,5,355,Loyal
+CUST-1265,Olivia Iyer,West,2025-12-26,64,14785.36,6,5,5,5,555,Champions
+CUST-1042,Noah Wang,West,2025-12-29,55,14752.11,3,5,5,5,555,Champions
+CUST-1144,Liam Brown,South,2025-12-31,36,13811.1,1,5,5,5,555,Champions
+CUST-1227,Olivia Garcia,Central,2025-12-27,44,13763.43,5,5,5,5,555,Champions
+CUST-1192,Aarav Patel,West,2025-12-30,63,13481.69,2,5,5,5,555,Champions
+CUST-1254,Sneha Reddy,North,2025-12-21,53,13194.02,11,4,5,5,455,Champions
+CUST-1012,Mia Khan,South,2025-12-30,54,13071.81,2,5,5,5,555,Champions
+CUST-1148,Carlos Smith,North,2025-12-25,47,12637.4,7,4,5,5,455,Champions
+CUST-1164,Rahul Garcia,East,2025-12-26,49,12254.32,6,5,5,5,555,Champions
+CUST-1110,Rahul Smith,West,2025-12-18,51,11767.42,14,4,5,5,455,Champions
+CUST-1270,Ethan Sharma,South,2025-12-10,30,11271.3,22,3,5,5,355,Loyal
+CUST-1275,Carlos Singh,East,2025-12-30,37,11233.59,2,5,5,5,555,Champions
+CUST-1219,Priya Singh,West,2025-12-30,42,11165.75,2,5,5,5,555,Champions
+CUST-1000,Priya Tanaka,West,2025-12-09,46,10651.76,23,3,5,5,355,Loyal
+CUST-1260,Meera Iyer,North,2025-12-01,42,10635.36,31,3,5,5,355,Loyal
+CUST-1025,Mia Iyer,West,2025-12-26,36,10359.83,6,4,5,5,455,Champions
+CUST-1093,Anita Singh,West,2025-07-25,27,9923.75,160,1,5,5,155,At Risk (high value)
+CUST-1115,Emma Muller,South,2025-12-26,46,9759.04,6,5,5,5,555,Champions
+CUST-1069,Arjun Smith,Central,2025-11-27,24,9719.33,35,3,4,5,345,Loyal
+CUST-1251,Yuki Rossi,North,2025-12-31,34,9619.29,1,5,5,5,555,Champions
+CUST-1163,Vikram Sharma,South,2025-12-29,40,9580.92,3,5,5,5,555,Champions
+CUST-1168,Yuki Nair,North,2025-12-23,39,9555.14,9,4,5,5,455,Champions
+CUST-1133,John Singh,West,2025-12-31,21,9511.48,1,5,4,5,545,Champions
+CUST-1186,John Singh,East,2025-12-20,31,9386.64,12,4,5,5,455,Champions
+CUST-1081,John Smith,Central,2025-12-14,39,9263.03,18,4,5,5,455,Champions
+CUST-1061,Sophia Brown,North,2025-12-31,28,8736.46,1,5,5,5,555,Champions
+CUST-1140,Sneha Brown,West,2025-12-04,23,8689.03,28,3,4,5,345,Loyal
+CUST-1277,Yuki Brown,East,2025-12-25,22,8639.3,7,4,4,5,445,Champions
+CUST-1178,Anita Rossi,East,2025-12-22,48,8616.15,10,4,5,5,455,Champions
+CUST-1220,Yuki Nair,West,2025-12-29,45,8594.73,3,5,5,5,555,Champions
+CUST-1064,Olivia Khan,West,2025-12-14,19,8532.48,18,4,4,5,445,Champions
+CUST-1123,Mia Smith,North,2025-12-18,41,8494.21,14,4,5,5,455,Champions
+CUST-1184,Aarav Tanaka,North,2025-12-14,25,8281.0,18,4,4,5,445,Champions
+CUST-1101,Emma Wang,Central,2025-12-30,22,7987.23,2,5,4,5,545,Champions
+CUST-1185,Arjun Khan,East,2025-12-09,23,7839.08,23,3,4,5,345,Loyal
+CUST-1206,Sneha Patel,South,2025-11-28,39,7646.58,34,3,5,5,355,Loyal
+CUST-1039,Olivia Wang,Central,2025-12-24,31,7472.89,8,4,5,5,455,Champions
+CUST-1282,Fatima Reddy,North,2025-12-27,23,7300.39,5,5,4,4,544,Champions
+CUST-1047,Fatima Nair,South,2025-10-12,24,7083.52,81,2,4,4,244,At Risk (high value)
+CUST-1150,Meera Muller,North,2025-12-28,22,6950.43,4,5,4,4,544,Champions
+CUST-1279,Mia Muller,South,2025-11-27,21,6896.72,35,3,4,4,344,Loyal
+CUST-1295,Carlos Rossi,South,2025-12-21,26,6862.86,11,4,4,4,444,Champions
+CUST-1109,John Rossi,Central,2025-11-07,24,6820.71,55,2,4,4,244,At Risk (high value)
+CUST-1187,Fatima Patel,South,2025-12-30,18,6803.62,2,5,4,4,544,Champions
+CUST-1228,Rahul Khan,West,2025-12-21,29,6681.06,11,4,5,4,454,Champions
+CUST-1094,Vikram Nair,North,2025-12-28,20,6674.73,4,5,4,4,544,Champions
+CUST-1181,Vikram Rossi,South,2025-12-25,27,6641.71,7,4,5,4,454,Champions
+CUST-1200,Yuki Tanaka,West,2025-12-26,21,6438.14,6,5,4,4,544,Champions
+CUST-1103,Mia Silva,North,2025-12-08,28,6373.99,24,3,5,4,354,Loyal
+CUST-1240,Sneha Muller,Central,2025-11-07,23,6362.96,55,2,4,4,244,At Risk (high value)
+CUST-1238,Carlos Sharma,North,2025-12-18,18,6362.88,14,4,4,4,444,Champions
+CUST-1032,John Nair,West,2025-12-18,26,6137.16,14,4,4,4,444,Champions
+CUST-1272,Carlos Sharma,East,2025-12-07,32,6099.14,25,3,5,4,354,Loyal
+CUST-1160,Arjun Patel,East,2025-12-19,27,6049.11,13,4,5,4,454,Champions
+CUST-1215,Priya Tanaka,North,2025-12-23,24,5910.37,9,4,4,4,444,Champions
+CUST-1127,Sophia Iyer,West,2025-12-31,30,5891.25,1,5,5,4,554,Champions
+CUST-1097,Yuki Patel,South,2025-12-26,25,5878.31,6,4,4,4,444,Champions
+CUST-1221,Rahul Brown,East,2025-12-27,31,5755.68,5,5,5,4,554,Champions
+CUST-1288,Chen Brown,North,2025-12-04,23,5752.2,28,3,4,4,344,Loyal
+CUST-1020,Anita Tanaka,Central,2025-12-10,27,5739.86,22,3,4,4,344,Loyal
+CUST-1216,Carlos Patel,South,2025-12-30,23,5485.37,2,5,4,4,544,Champions
+CUST-1293,Sophia Patel,East,2025-12-17,15,5477.82,15,4,3,4,434,Loyal
+CUST-1098,Arjun Patel,East,2025-12-24,15,5461.21,8,4,3,4,434,Loyal
+CUST-1233,Anita Garcia,West,2025-12-30,16,5456.36,2,5,4,4,544,Champions
+CUST-1084,Arjun Sharma,East,2025-09-04,9,5419.25,119,1,2,4,124,Needs Attention
+CUST-1074,Carlos Sharma,North,2025-10-16,12,5416.11,77,2,3,4,234,Needs Attention
+CUST-1104,Sneha Tanaka,Central,2025-12-23,16,5406.55,9,4,4,4,444,Champions
+CUST-1100,Meera Rossi,South,2025-12-27,17,5373.1,5,5,4,4,544,Champions
+CUST-1130,Mia Iyer,Central,2025-11-01,21,5360.89,61,2,4,4,244,At Risk (high value)
+CUST-1002,John Muller,East,2025-11-05,17,5221.21,57,2,4,4,244,At Risk (high value)
+CUST-1226,Emma Sharma,Central,2025-12-25,19,5121.93,7,4,4,4,444,Champions
+CUST-1134,Noah Garcia,North,2025-12-06,23,5065.91,26,3,4,4,344,Loyal
+CUST-1198,Aarav Iyer,South,2025-10-22,11,5065.33,71,2,3,4,234,Needs Attention
+CUST-1007,Ethan Tanaka,East,2025-12-29,21,4947.52,3,5,4,4,544,Champions
+CUST-1158,Ethan Wang,West,2025-12-17,17,4878.92,15,4,4,4,444,Champions
+CUST-1189,Meera Reddy,East,2025-10-12,8,4857.03,81,2,2,4,224,Needs Attention
+CUST-1208,Yuki Patel,East,2025-12-31,20,4741.24,1,5,4,4,544,Champions
+CUST-1280,Liam Sharma,East,2025-11-07,22,4638.45,55,2,4,4,244,At Risk (high value)
+CUST-1155,Sophia Wang,North,2025-12-14,16,4501.13,18,4,4,4,444,Champions
+CUST-1167,Emma Muller,Central,2025-11-05,15,4405.38,57,2,3,4,234,Needs Attention
+CUST-1023,John Rossi,East,2025-12-28,22,4385.14,4,5,4,4,544,Champions
+CUST-1210,Chen Wang,North,2025-11-24,12,4337.86,38,3,3,4,334,Loyal
+CUST-1207,Aarav Wang,West,2025-11-18,14,4328.23,44,2,3,4,234,Needs Attention
+CUST-1021,Ethan Singh,East,2025-11-30,13,4306.94,32,3,3,4,334,Loyal
+CUST-1243,Arjun Brown,Central,2025-11-26,13,4292.68,36,3,3,4,334,Loyal
+CUST-1107,Ethan Nair,West,2025-09-21,11,4251.27,102,1,3,4,134,Needs Attention
+CUST-1071,Sneha Smith,South,2025-12-20,19,4217.12,12,4,4,4,444,Champions
+CUST-1197,Ethan Rossi,East,2025-12-02,12,4146.96,30,3,3,4,334,Loyal
+CUST-1159,Chen Tanaka,East,2025-12-21,22,4139.7,11,4,4,4,444,Champions
+CUST-1180,Carlos Rossi,East,2025-11-30,20,4034.34,32,3,4,4,344,Loyal
+CUST-1062,Fatima Garcia,North,2025-12-29,20,4027.13,3,5,4,4,544,Champions
+CUST-1036,Emma Patel,North,2025-12-14,17,4022.76,18,4,4,4,444,Champions
+CUST-1248,Rahul Singh,West,2025-12-30,13,3923.21,2,5,3,4,534,Loyal
+CUST-1090,Chen Iyer,East,2025-11-16,20,3877.11,46,2,4,4,244,At Risk (high value)
+CUST-1132,Yuki Garcia,West,2025-12-23,28,3864.99,9,4,5,4,454,Champions
+CUST-1034,Priya Brown,North,2025-11-14,16,3847.92,48,2,4,3,243,Needs Attention
+CUST-1087,Sophia Smith,Central,2025-12-01,12,3809.0,31,3,3,3,333,Loyal
+CUST-1080,Yuki Khan,East,2025-12-22,15,3740.98,10,4,3,3,433,Loyal
+CUST-1077,John Khan,East,2025-11-29,17,3728.92,33,3,4,3,343,Loyal
+CUST-1204,Chen Sharma,East,2025-07-30,13,3707.58,155,1,3,3,133,Needs Attention
+CUST-1029,Ethan Wang,South,2025-12-24,18,3684.52,8,4,4,3,443,Loyal
+CUST-1267,Olivia Iyer,North,2025-12-23,15,3669.57,9,4,3,3,433,Loyal
+CUST-1045,John Muller,West,2025-12-26,18,3615.7,6,4,4,3,443,Loyal
+CUST-1285,Chen Smith,East,2025-12-26,14,3547.32,6,5,3,3,533,Loyal
+CUST-1182,Rahul Brown,East,2025-12-21,17,3540.2,11,4,4,3,443,Loyal
+CUST-1078,Rahul Garcia,East,2025-12-29,18,3539.23,3,5,4,3,543,Loyal
+CUST-1086,Mia Wang,West,2025-12-23,10,3526.0,9,4,3,3,433,Loyal
+CUST-1067,Mia Nair,West,2025-10-25,10,3496.25,68,2,2,3,223,Needs Attention
+CUST-1157,Vikram Khan,East,2025-12-30,13,3453.34,2,5,3,3,533,Loyal
+CUST-1286,Sneha Sharma,North,2025-11-24,17,3347.65,38,3,4,3,343,Loyal
+CUST-1011,Anita Rossi,East,2025-12-29,15,3330.5,3,5,3,3,533,Loyal
+CUST-1156,Rahul Nair,Central,2025-11-11,10,3328.12,51,2,3,3,233,Needs Attention
+CUST-1218,Olivia Rossi,North,2025-11-08,10,3325.58,54,2,3,3,233,Needs Attention
+CUST-1111,Ethan Reddy,West,2025-12-04,10,3311.97,28,3,3,3,333,Loyal
+CUST-1268,Emma Patel,South,2025-12-26,11,3292.41,6,5,3,3,533,Loyal
+CUST-1241,Sneha Tanaka,East,2025-12-16,17,3198.22,16,4,4,3,443,Loyal
+CUST-1030,Chen Tanaka,West,2025-11-26,13,3171.9,36,3,3,3,333,Loyal
+CUST-1125,Anita Brown,West,2024-12-18,4,3159.89,379,1,1,3,113,Hibernating
+CUST-1278,Ethan Rossi,West,2025-12-16,16,3144.22,16,4,4,3,443,Loyal
+CUST-1122,Noah Patel,North,2025-10-31,12,3116.48,62,2,3,3,233,Needs Attention
+CUST-1066,Priya Garcia,West,2025-11-24,13,3099.8,38,3,3,3,333,Loyal
+CUST-1209,Sneha Brown,North,2025-12-30,13,3087.19,2,5,3,3,533,Loyal
+CUST-1225,Yuki Rossi,South,2025-12-21,17,3083.68,11,4,4,3,443,Loyal
+CUST-1005,Liam Silva,East,2025-11-25,8,3080.78,37,3,2,3,323,Needs Attention
+CUST-1213,Fatima Muller,South,2025-12-18,9,3062.12,14,4,2,3,423,Needs Attention
+CUST-1154,Arjun Patel,North,2025-11-11,15,2989.28,51,2,3,3,233,Needs Attention
+CUST-1195,Ethan Iyer,East,2025-12-09,18,2976.29,23,3,4,3,343,Loyal
+CUST-1264,Chen Rossi,West,2025-12-29,12,2907.36,3,5,3,3,533,Loyal
+CUST-1044,Mia Muller,West,2025-12-08,15,2887.33,24,3,3,3,333,Loyal
+CUST-1040,Chen Smith,North,2025-11-12,11,2878.43,50,2,3,3,233,Needs Attention
+CUST-1262,Arjun Nair,West,2025-09-02,7,2854.81,121,1,2,3,123,Needs Attention
+CUST-1028,Liam Iyer,East,2025-12-13,17,2848.5,19,3,4,3,343,Loyal
+CUST-1031,Meera Silva,South,2025-10-14,6,2799.69,79,2,2,3,223,Needs Attention
+CUST-1014,Liam Smith,South,2025-12-30,20,2797.99,2,5,4,3,543,Loyal
+CUST-1114,Liam Iyer,North,2025-12-11,12,2699.23,21,3,3,3,333,Loyal
+CUST-1153,Arjun Garcia,North,2025-11-22,11,2651.51,40,3,3,3,333,Loyal
+CUST-1057,Liam Garcia,West,2025-07-01,11,2606.13,184,1,3,3,133,Needs Attention
+CUST-1001,Sophia Smith,North,2025-12-21,13,2598.51,11,4,3,3,433,Loyal
+CUST-1259,Emma Garcia,East,2025-11-30,6,2547.91,32,3,2,3,323,Needs Attention
+CUST-1170,Noah Nair,East,2025-11-01,19,2532.66,61,2,4,3,243,Needs Attention
+CUST-1299,Noah Khan,East,2025-11-23,15,2479.66,39,3,3,3,333,Loyal
+CUST-1274,Liam Wang,West,2025-10-27,11,2410.86,66,2,3,3,233,Needs Attention
+CUST-1250,Rahul Khan,East,2025-11-28,11,2405.21,34,3,3,3,333,Loyal
+CUST-1068,Noah Sharma,South,2025-11-19,11,2403.46,43,2,3,3,233,Needs Attention
+CUST-1201,Arjun Silva,Central,2025-11-29,12,2401.0,33,3,3,3,333,Loyal
+CUST-1235,Ethan Muller,South,2025-12-20,11,2322.94,12,4,3,3,433,Loyal
+CUST-1256,Carlos Muller,South,2025-11-23,12,2275.19,39,3,3,3,333,Loyal
+CUST-1102,Emma Reddy,West,2025-12-03,10,2266.39,29,3,3,3,333,Loyal
+CUST-1117,Emma Wang,West,2025-12-08,7,2263.02,24,3,2,3,323,Needs Attention
+CUST-1108,Priya Patel,North,2025-11-04,7,2262.28,58,2,2,3,223,Needs Attention
+CUST-1174,Anita Iyer,South,2025-11-24,9,2250.97,38,3,2,3,323,Needs Attention
+CUST-1292,John Rossi,South,2025-11-13,10,2212.63,49,2,3,3,233,Needs Attention
+CUST-1239,Sophia Patel,West,2025-10-21,8,2201.06,72,2,2,3,223,Needs Attention
+CUST-1249,Chen Smith,East,2025-11-28,13,2179.99,34,3,3,2,332,Needs Attention
+CUST-1043,Priya Nair,East,2025-07-18,7,2174.47,167,1,2,2,122,Hibernating
+CUST-1229,Carlos Patel,South,2025-12-23,11,2154.21,9,4,3,2,432,Needs Attention
+CUST-1049,Noah Iyer,North,2025-12-16,12,2098.19,16,4,3,2,432,Needs Attention
+CUST-1290,Priya Muller,Central,2025-07-08,6,2090.31,177,1,2,2,122,Hibernating
+CUST-1253,Liam Reddy,Central,2025-12-23,15,2053.75,9,4,3,2,432,Needs Attention
+CUST-1236,John Brown,East,2025-12-06,12,2035.18,26,3,3,2,332,Needs Attention
+CUST-1211,Mia Garcia,West,2025-12-22,8,2015.37,10,4,2,2,422,Needs Attention
+CUST-1212,John Iyer,North,2025-12-06,13,2008.92,26,3,3,2,332,Needs Attention
+CUST-1112,Ethan Nair,North,2025-11-21,13,1986.56,41,2,3,2,232,Needs Attention
+CUST-1232,Aarav Silva,East,2025-12-27,10,1972.1,5,5,3,2,532,Needs Attention
+CUST-1010,Liam Singh,East,2025-11-08,9,1971.29,54,2,2,2,222,Hibernating
+CUST-1129,Anita Garcia,West,2025-11-09,7,1968.72,53,2,2,2,222,Hibernating
+CUST-1046,Carlos Singh,Central,2025-11-28,5,1966.8,34,3,2,2,322,Needs Attention
+CUST-1138,Emma Tanaka,West,2025-10-09,6,1960.98,84,2,2,2,222,Hibernating
+CUST-1199,Sneha Nair,East,2025-11-05,4,1957.28,57,2,1,2,212,Hibernating
+CUST-1173,Yuki Silva,North,2025-12-28,11,1899.33,4,5,3,2,532,Needs Attention
+CUST-1234,Anita Rossi,North,2025-10-10,7,1782.38,83,2,2,2,222,Hibernating
+CUST-1296,Vikram Silva,West,2025-11-18,8,1711.6,44,2,2,2,222,Hibernating
+CUST-1276,Carlos Nair,Central,2025-11-07,9,1689.38,55,2,2,2,222,Hibernating
+CUST-1291,Rahul Sharma,East,2025-06-19,9,1687.43,196,1,2,2,122,Hibernating
+CUST-1298,Olivia Tanaka,Central,2025-03-20,4,1678.15,287,1,1,2,112,Hibernating
+CUST-1171,Noah Brown,East,2025-10-05,9,1676.72,88,2,2,2,222,Hibernating
+CUST-1091,Emma Wang,North,2025-12-03,9,1637.35,29,3,2,2,322,Needs Attention
+CUST-1131,Sneha Rossi,West,2025-12-07,12,1636.18,25,3,3,2,332,Needs Attention
+CUST-1137,John Brown,East,2025-07-14,4,1581.61,171,1,1,2,112,Hibernating
+CUST-1059,Vikram Patel,East,2025-06-14,6,1558.88,201,1,2,2,122,Hibernating
+CUST-1224,Liam Nair,North,2025-11-24,7,1550.12,38,3,2,2,322,Needs Attention
+CUST-1222,Liam Khan,North,2025-11-17,8,1475.76,45,2,2,2,222,Hibernating
+CUST-1147,Liam Brown,East,2025-12-24,9,1465.85,8,4,2,2,422,Needs Attention
+CUST-1203,John Iyer,East,2025-12-12,11,1432.15,20,3,3,2,332,Needs Attention
+CUST-1085,Rahul Patel,Central,2025-11-15,5,1404.84,47,2,2,2,222,Hibernating
+CUST-1190,Aarav Silva,West,2025-10-02,7,1380.29,91,2,2,2,222,Hibernating
+CUST-1255,Yuki Tanaka,South,2025-10-28,5,1377.55,65,2,2,2,222,Hibernating
+CUST-1126,Anita Nair,South,2025-09-01,8,1375.37,122,1,2,2,122,Hibernating
+CUST-1024,Sophia Tanaka,West,2025-07-25,5,1358.5,160,1,2,2,122,Hibernating
+CUST-1287,Aarav Singh,South,2025-04-24,7,1356.91,252,1,2,2,122,Hibernating
+CUST-1149,Sneha Sharma,East,2025-04-26,9,1348.41,250,1,2,2,122,Hibernating
+CUST-1013,John Muller,South,2025-11-25,4,1330.52,37,3,1,2,312,Needs Attention
+CUST-1141,Sophia Brown,North,2025-09-21,4,1317.56,102,1,1,2,112,Hibernating
+CUST-1019,Sneha Khan,Central,2025-09-29,5,1309.63,94,1,1,2,112,Hibernating
+CUST-1058,Aarav Iyer,East,2025-11-25,14,1295.69,37,3,3,2,332,Needs Attention
+CUST-1120,Rahul Garcia,West,2025-08-20,8,1264.05,134,1,2,2,122,Hibernating
+CUST-1033,Chen Singh,Central,2025-10-10,5,1260.64,83,2,2,2,222,Hibernating
+CUST-1121,Priya Khan,North,2025-07-01,3,1258.24,184,1,1,2,112,Hibernating
+CUST-1076,Chen Nair,Central,2025-11-02,4,1252.15,60,2,1,2,212,Hibernating
+CUST-1266,Anita Nair,West,2025-04-16,8,1238.39,260,1,2,2,122,Hibernating
+CUST-1136,Anita Silva,North,2025-12-30,10,1164.31,2,5,3,2,532,Needs Attention
+CUST-1048,Vikram Wang,East,2025-04-07,4,1160.12,269,1,1,2,112,Hibernating
+CUST-1026,Meera Brown,West,2025-10-21,7,1156.15,72,2,2,2,222,Hibernating
+CUST-1018,Fatima Muller,South,2025-11-15,7,1147.04,47,2,2,2,222,Hibernating
+CUST-1237,Noah Tanaka,North,2025-08-26,4,1083.8,128,1,1,2,112,Hibernating
+CUST-1095,Sophia Khan,East,2025-11-11,5,1075.41,51,2,2,2,222,Hibernating
+CUST-1223,Arjun Silva,East,2025-11-07,6,1021.58,55,2,2,2,222,Hibernating
+CUST-1258,Fatima Sharma,East,2025-09-25,5,983.6,98,1,2,2,122,Hibernating
+CUST-1060,John Wang,Central,2025-11-15,5,958.1,47,2,2,2,222,Hibernating
+CUST-1128,Sophia Patel,North,2025-10-18,6,951.76,75,2,2,2,222,Hibernating
+CUST-1022,Priya Silva,South,2025-07-21,4,938.74,164,1,1,2,112,Hibernating
+CUST-1082,John Muller,West,2025-11-10,5,926.57,52,2,2,1,221,Hibernating
+CUST-1273,John Garcia,West,2025-11-19,6,867.45,43,2,2,1,221,Hibernating
+CUST-1179,Priya Tanaka,East,2025-07-20,4,860.02,165,1,1,1,111,Hibernating
+CUST-1106,Mia Smith,South,2025-11-13,5,856.57,49,2,2,1,221,Hibernating
+CUST-1124,Mia Sharma,East,2025-12-17,5,854.31,15,4,2,1,421,Needs Attention
+CUST-1038,Arjun Reddy,North,2025-03-17,5,833.19,290,1,2,1,121,Hibernating
+CUST-1051,Carlos Sharma,North,2025-11-10,3,819.41,52,2,1,1,211,Hibernating
+CUST-1004,Vikram Patel,West,2025-07-23,3,792.33,162,1,1,1,111,Hibernating
+CUST-1283,Vikram Reddy,East,2025-03-25,2,751.87,282,1,1,1,111,Hibernating
+CUST-1017,Fatima Sharma,West,2025-04-02,3,741.75,274,1,1,1,111,Hibernating
+CUST-1152,Liam Iyer,West,2025-05-14,5,713.18,232,1,2,1,121,Hibernating
+CUST-1055,Sneha Tanaka,East,2025-08-09,8,692.92,145,1,2,1,121,Hibernating
+CUST-1006,Ethan Tanaka,East,2024-12-17,3,674.78,380,1,1,1,111,Hibernating
+CUST-1113,Carlos Garcia,Central,2025-09-17,9,670.08,106,1,2,1,121,Hibernating
+CUST-1027,Emma Sharma,East,2025-11-10,3,653.37,52,2,1,1,211,Hibernating
+CUST-1072,Yuki Muller,South,2025-12-19,8,637.72,13,4,2,1,421,Needs Attention
+CUST-1135,Sneha Sharma,South,2025-11-21,5,633.7,41,2,2,1,221,Hibernating
+CUST-1037,Sophia Brown,West,2024-11-16,1,628.87,411,1,1,1,111,Hibernating
+CUST-1247,Sneha Smith,North,2025-12-31,4,612.82,1,5,1,1,511,Needs Attention
+CUST-1009,Carlos Smith,North,2025-12-26,6,598.9,6,4,2,1,421,Needs Attention
+CUST-1242,Emma Reddy,West,2024-11-03,3,596.65,424,1,1,1,111,Hibernating
+CUST-1202,Emma Brown,Central,2025-05-01,4,594.94,245,1,1,1,111,Hibernating
+CUST-1289,Fatima Patel,North,2025-07-16,3,594.3,169,1,1,1,111,Hibernating
+CUST-1035,Mia Iyer,East,2025-04-10,3,570.25,266,1,1,1,111,Hibernating
+CUST-1172,Chen Reddy,North,2025-12-11,3,510.42,21,3,1,1,311,Needs Attention
+CUST-1165,Liam Singh,West,2025-11-01,4,472.67,61,2,1,1,211,Hibernating
+CUST-1143,Anita Garcia,North,2025-11-24,5,462.1,38,3,2,1,321,Needs Attention
+CUST-1041,Anita Muller,Central,2025-11-23,4,454.22,39,3,1,1,311,Needs Attention
+CUST-1217,John Patel,West,2025-09-11,2,454.1,112,1,1,1,111,Hibernating
+CUST-1231,Ethan Smith,West,2025-12-17,4,382.51,15,4,1,1,411,Needs Attention
+CUST-1284,Noah Garcia,Central,2025-09-19,3,363.83,104,1,1,1,111,Hibernating
+CUST-1161,Noah Rossi,North,2025-11-29,2,359.83,33,3,1,1,311,Needs Attention
+CUST-1191,Chen Reddy,West,2025-12-11,4,351.87,21,3,1,1,311,Needs Attention
+CUST-1088,Ethan Iyer,North,2025-03-03,2,332.48,304,1,1,1,111,Hibernating
+CUST-1257,Yuki Patel,East,2025-12-09,3,330.74,23,3,1,1,311,Needs Attention
+CUST-1297,Arjun Muller,East,2025-03-03,2,313.73,304,1,1,1,111,Hibernating
+CUST-1063,Priya Tanaka,North,2025-12-14,3,293.16,18,4,1,1,411,Needs Attention
+CUST-1145,Carlos Nair,West,2025-06-01,1,287.63,214,1,1,1,111,Hibernating
+CUST-1175,Liam Sharma,South,2025-10-31,3,272.24,62,2,1,1,211,Hibernating
+CUST-1245,Chen Rossi,East,2025-06-02,2,254.76,213,1,1,1,111,Hibernating
+CUST-1294,Carlos Muller,North,2025-09-09,4,225.39,114,1,1,1,111,Hibernating
+CUST-1146,Yuki Nair,Central,2025-01-26,1,219.35,340,1,1,1,111,Hibernating
+CUST-1151,Aarav Rossi,Central,2025-11-13,3,216.49,49,2,1,1,211,Hibernating
+CUST-1079,Liam Tanaka,West,2025-06-30,3,216.4,185,1,1,1,111,Hibernating
+CUST-1271,Anita Iyer,West,2024-12-07,3,211.39,390,1,1,1,111,Hibernating
+CUST-1214,Aarav Wang,South,2024-12-07,3,198.49,390,1,1,1,111,Hibernating
+CUST-1139,Priya Patel,East,2024-10-25,2,152.98,433,1,1,1,111,Hibernating
+CUST-1096,Noah Singh,West,2025-11-24,1,151.44,38,3,1,1,311,Needs Attention
+CUST-1016,Priya Garcia,East,2024-12-15,2,142.54,382,1,1,1,111,Hibernating
+CUST-1089,Chen Brown,West,2025-09-17,1,140.94,106,1,1,1,111,Hibernating
+CUST-1281,Emma Iyer,East,2025-11-11,1,133.04,51,2,1,1,211,Hibernating
+CUST-1119,Arjun Khan,Central,2025-01-22,2,132.89,344,1,1,1,111,Hibernating
+CUST-1246,Mia Khan,East,2025-11-24,2,128.6,38,3,1,1,311,Needs Attention
+CUST-1230,Ethan Iyer,West,2025-12-27,1,90.74,5,5,1,1,511,Needs Attention
+CUST-1188,Ethan Tanaka,East,2025-08-31,2,87.52,123,1,1,1,111,Hibernating
+CUST-1056,Olivia Smith,West,2024-02-19,1,57.05,682,1,1,1,111,Hibernating
+CUST-1083,Arjun Iyer,East,2025-10-08,1,24.1,85,2,1,1,211,Hibernating
+CUST-1092,Emma Smith,East,2025-09-08,1,17.54,115,1,1,1,111,Hibernating
+CUST-1142,John Silva,West,2025-07-20,1,15.32,165,1,1,1,111,Hibernating
